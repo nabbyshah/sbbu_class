@@ -1,0 +1,33 @@
+{
+    "studentsInfo":[    
+        {"id":1,
+        "name":"zain",
+        "fathername":"raza",
+        "dept":"computer science",
+        "description":"a quick brown fox jump over a lazzy dog,"
+        },
+        {"id":2,
+        "name":"ahmed",
+        "fathername":"shah",
+        "dept":"islamyat",
+        "description":"a quick brown fox jump over a lazzy dog,"},
+        
+        {"id":3,
+        "name":"ali",
+          "fathername":"khan",
+        "dept":"chemistry",
+        "description":"a quick brown fox jump over a lazzy dog,"
+        },
+        {"id":4,
+        "name":"alina",
+          "fathername":"ali",
+        "dept":"chemistry",
+        "description":"a quick brown fox jump over a lazzy dog,"
+        },
+        {"id":5,
+        "name":"alisha",
+          "fathername":"shah",
+        "dept":"physics",
+        "description":"a quick brown fox jump over a lazzy dog,"
+        }]
+      }
